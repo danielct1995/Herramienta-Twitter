@@ -94,10 +94,10 @@ función de las noticias, etc..
 
 ### Ejemplos
 * Con el dataset sobre el coche eléctrico:
-![alt text](https://gitlab.pervasive.it.uc3m.es/100315159/Herramienta_twitter/raw/62613f59d5af4ba9e40e824a6e7f8e80c3b3549b/Ejemplos/coche_electrico.png "Sobre coche eléctrico")
+![alt text](https://github.com/danielct1995/Herramienta-Twitter/blob/master/Ejemplos/coche_electrico.png?raw=true "Sobre coche eléctrico")
 
 * Con un dataset de mensajes directos de twitteros a las operadoras:
-![alt text](https://gitlab.pervasive.it.uc3m.es/100315159/Herramienta_twitter/raw/62613f59d5af4ba9e40e824a6e7f8e80c3b3549b/Ejemplos/operadoras.png "Operadoras más referidas")
+![alt text](https://github.com/danielct1995/Herramienta-Twitter/blob/master/Ejemplos/operadoras.png?raw=true "Operadoras más referidas")
 
 
 ## Conclusiones:
